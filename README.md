@@ -14,4 +14,4 @@ The chatbot is deployed at `http://143.198.133.154:8501/` link.
 
 Screenshot
 
-[](https://i.imgur.com/FGD5ZkZ.jpg)
+![](https://i.imgur.com/FGD5ZkZ.jpg)
